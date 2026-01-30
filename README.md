@@ -1,6 +1,6 @@
-# QUANTOS-REAL-TIME-STOCK-INTELLIGENCE-PIPELINE
+# QUANTPRO-REAL-TIME-STOCK-INTELLIGENCE-PIPELINE
 
-**QUANTOS** is an institutional-grade quantitative trading terminal designed for real-time market analysis, predictive risk modeling, and machine learning model validation. By integrating live data feeds with advanced financial mathematics, the pipeline provides a comprehensive view of equity dynamics and systemic risk.
+**QUANTPRO** is an institutional-grade quantitative trading terminal designed for real-time market analysis, predictive risk modeling, and machine learning model validation. By integrating live data feeds with advanced financial mathematics, the pipeline provides a comprehensive view of equity dynamics and systemic risk.
 
 ---
 
