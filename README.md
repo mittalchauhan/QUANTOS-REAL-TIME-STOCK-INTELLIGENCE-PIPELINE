@@ -58,8 +58,8 @@ The pipeline utilizes several core quantitative methods to process incoming data
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/quantos-intelligence-pipeline.git](https://github.com/your-username/quantos-intelligence-pipeline.git)
-   cd quantos-intelligence-pipeline
+   git clone <repo-url>
+   cd <repo-folder>
    ```
 
 2.  **Install dependencies:**
